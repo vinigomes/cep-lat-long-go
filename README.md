@@ -3,7 +3,7 @@ This is an application that convert a CSV file with CEPs to a CSV file with Lati
 
 ## Description
 
-###To run this application you need:
+### To run this application you need:
 * To config a environment variable GOOGLE_MAPS_API_KEY with you key:
 export GOOGLE_MAPS_API_KEY="your-key"
 * After this, you just need to run the application:
